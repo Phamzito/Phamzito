@@ -4,4 +4,4 @@ Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y 
 
 #### Estadisticas
 
-![Phamzito's github stats](https://github-readme-stats.vercel.app/api/?username=Phamzito&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Phamzito's github stats](https://github-readme-stats.vercel.app/api/?username=Phamzito&show_icons=true&title_color=fff&text_color=7289DA&bg_color=151515&hide_border=true&hide_rank=true&hide=["commits"]&icon_color=99AAB5)
