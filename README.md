@@ -2,16 +2,15 @@
 
 Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y aprendo rapido lenguajes de programación actualmente programo en [`Typescript`] (y Javascript), [`Python`] y [`C#`]
 
-#### Badges
+#### Github Stats
 
-<p align="center">
-  <a href="https://github.com/Phamzito">
-    <img alt="Github Followers" src="https://img.shields.io/github/followers/Phamzito?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/kqz8jm5">
-    <img alt="Discord" src="https://img.shields.io/discord/696492359004979281?logo=Discord&style=for-the-badge" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Phamzito&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide_title=false" />
+    </td>
+  </tr>
+</table>
 
 <!----------------- LINKS --------------->
 [`TypeScript`]:          https://www.typescriptlang.org/
