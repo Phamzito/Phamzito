@@ -1,6 +1,6 @@
 ### Hola ¿todo bien? 😀
 
-Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y aprendo rapido lenguajes de programación actualmente programo en [`Typescript`] (y Javascript), [`Python`] y [`C#`]
+Yo soy Phamzito (David Gustavo) y tengo 18 años, soy un estudiante de mexico y aprendo rapido lenguajes de programación actualmente programo en [`Typescript`] (y Javascript), [`Python`] y [`C#`]
 
 ### 📫 Contactame
    - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#3963`][Discord]
