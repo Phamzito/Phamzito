@@ -4,6 +4,21 @@ Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y 
 
 #### 📫 Contactame
    - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#3963`][Discord]
+   
+   
+### 💻 Tecnologías
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### Github Stats
 <!--Stats-->
@@ -20,6 +35,12 @@ Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y 
 <!--Stats-->
 
 > Estadisticas por [`GitHub Readme Stats`]
+<div align="center">
+   
+   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Phamzito.Phamzito)
+   
+</div>
+
 <!--Links-->
 [`TypeScript`]:          https://www.typescriptlang.org/
 [`Python`]:              https://www.python.org/
