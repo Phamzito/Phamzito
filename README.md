@@ -2,7 +2,7 @@
 
 Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y aprendo rapido lenguajes de programación actualmente programo en [`Typescript`] (y Javascript), [`Python`] y [`C#`]
 
-#### 📫 Contactame
+### 📫 Contactame
    - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#3963`][Discord]
    
    
@@ -20,7 +20,7 @@ Yo soy Phamzito (David Gustavo) y tengo 17 años, soy un estudiante de mexico y 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-#### Github Stats
+### Github Stats
 <!--Stats-->
 <table>
   <tr>
