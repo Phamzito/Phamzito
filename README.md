@@ -1,10 +1,10 @@
 ## Hola 👋
 
-Yo soy Phamzito (David Gustavo) y tengo 18 años, soy un estudiante de mexico y aprendo rapido lenguajes de programación actualmente programo en [`Typescript`] (y Javascript), [`Python`] y [`C#`]
+Mi nombre es **David Gustavo** soy estudiante en el **Conalep Plantel 100**, Mi aprendizaje es rapido y actualmente programo en [`Typescript`] (y Javascript), [`Python`], [`C#`] y [`C++`]
 
 ### 📫 Contactame
 
-- <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#9871`][discord]
+- <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#9871`][`Discord`]
 
 ---
 
@@ -50,8 +50,9 @@ Estas son las estadisticas de mi perfil.
 
 <!--Links-->
 
-[`typescript`]: https://www.typescriptlang.org/
-[`python`]: https://www.python.org/
-[`c#`]: https://visualstudio.microsoft.com/
-[discord]: https://discord.com/users/497061687820812288
+[`Typescript`]: https://www.typescriptlang.org/
+[`Python`]: https://www.python.org/
+[`C#`]: https://visualstudio.microsoft.com/
+[`C++`]: https://visualstudio.microsoft.com/
+[`Discord`]: https://discord.com/users/497061687820812288
 [`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
