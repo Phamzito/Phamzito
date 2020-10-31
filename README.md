@@ -1,26 +1,32 @@
-### Hola ¿todo bien? 😀
+## Hola 👋
 
 Yo soy Phamzito (David Gustavo) y tengo 18 años, soy un estudiante de mexico y aprendo rapido lenguajes de programación actualmente programo en [`Typescript`] (y Javascript), [`Python`] y [`C#`]
 
 ### 📫 Contactame
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#9871`][Discord]
-   
-   
+
+- <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#9871`][discord]
+
+---
+
 ### 💻 Tecnologías
+![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=>=3.9&color=007ACC&style=for-the-badge&logo=typescript)
+![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ESNext&style=for-the-badge&color=F7DF1E&logo=JavaScript)
+![CSharp](https://img.shields.io/static/v1?label=C%23&message=8&color=239120&style=for-the-badge&logo=c-sharp)
+![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=17&color=00599C&style=for-the-badge&logo=C%2B%2B)
+![CMake](https://img.shields.io/static/v1?label=CMake&message=3.18&color=064F8C&style=for-the-badge&logo=cmake)
+![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=4B8BBE&style=for-the-badge&logo=python)
+![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=>=14&color=68a063&style=for-the-badge&logo=Node.js)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=insiders&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/static/v1?label=PostgreSQL&message=🐘&style=for-the-badge&color=008bb9&logo=postgresql)
+![Git](https://img.shields.io/static/v1?label=Git&message=🌱&style=for-the-badge&color=f34f29&logo=git)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&message=🐱&style=for-the-badge&color=f34f29&logo=git)
+![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&style=for-the-badge&color=0db7ed&logo=docker)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+---
 
-### Github Stats
+### 📊 Estadisticas de Github
+Estas son las estadisticas de mi perfil.
 <!--Stats-->
 <table>
   <tr>
@@ -35,6 +41,7 @@ Yo soy Phamzito (David Gustavo) y tengo 18 años, soy un estudiante de mexico y 
 <!--Stats-->
 
 > Estadisticas por [`GitHub Readme Stats`]
+
 <div align="center">
    
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Phamzito.Phamzito)
@@ -42,8 +49,9 @@ Yo soy Phamzito (David Gustavo) y tengo 18 años, soy un estudiante de mexico y 
 </div>
 
 <!--Links-->
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Python`]:              https://www.python.org/
-[`C#`]:                  https://visualstudio.microsoft.com/
-[Discord]:               https://discord.com/users/497061687820812288
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+
+[`typescript`]: https://www.typescriptlang.org/
+[`python`]: https://www.python.org/
+[`c#`]: https://visualstudio.microsoft.com/
+[discord]: https://discord.com/users/497061687820812288
+[`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
