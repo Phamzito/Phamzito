@@ -1,10 +1,10 @@
 ## Hola 👋
 
-Mi nombre es **David Gustavo** soy estudiante en el **Conalep Plantel 100**, Mi aprendizaje es rapido y actualmente programo en [`Typescript`] (y Javascript), [`Python`], [`C#`] y [`C++`]
+Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`Typescript`] (y Javascript), [`Python`], [`C#`] y [`C++`]
 
 ### 📫 Contactame
 
-- <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#9871`][`Discord`]
+- <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [`Pham#0003`][`Discord`]
 
 ---
 
@@ -54,5 +54,5 @@ Estas son las estadisticas de mi perfil.
 [`Python`]: https://www.python.org/
 [`C#`]: https://visualstudio.microsoft.com/
 [`C++`]: https://visualstudio.microsoft.com/
-[`Discord`]: https://discord.com/users/497061687820812288
+[`Discord`]: https://discord.com/users/834844835914580089
 [`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
