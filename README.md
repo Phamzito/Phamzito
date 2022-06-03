@@ -23,7 +23,7 @@ Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`
 </details>
 
 <details>
-  <summary><b>🔥Estadísticas del Racha</b></summary>
+  <summary><b>🔥Estadísticas de Racha</b></summary>
   <br/>
   <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=phamzito&theme=dark&hide_border=true&locale=es" alt="phamzito" /></p>
 </details>
