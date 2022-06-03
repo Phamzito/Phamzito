@@ -2,11 +2,13 @@
 
 Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`Typescript`] (y Javascript), [`Python`], [`C#`] y [`C++`]
 
-
 ---
 
-### 📊 Estadisticas de Github
-Estas son las estadisticas de mi perfil.
+## 📊 Estadisticas de Github (expande para ver)
+
+<details>
+<summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
+<br/>
 <!--Stats-->
 <table>
   <tr>
@@ -18,9 +20,13 @@ Estas son las estadisticas de mi perfil.
     </td>
   </tr>
 </table>
-<!--Stats-->
+</details>
 
-> Estadisticas por [`GitHub Readme Stats`]
+<details>
+  <summary><b>🔥Estadísticas del Racha</b></summary>
+  <br/>
+  <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=phamzito&theme=dark&hide_border=true&locale=es" alt="phamzito" /></p>
+</details>
 
 <div align="center">
    
@@ -30,8 +36,8 @@ Estas son las estadisticas de mi perfil.
 
 <!--Links-->
 
-[`Typescript`]: https://www.typescriptlang.org/
-[`Python`]: https://www.python.org/
-[`C#`]: https://visualstudio.microsoft.com/
-[`C++`]: https://visualstudio.microsoft.com/
+[`typescript`]: https://www.typescriptlang.org/
+[`python`]: https://www.python.org/
+[`c#`]: https://visualstudio.microsoft.com/
+[`c++`]: https://visualstudio.microsoft.com/
 [`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
