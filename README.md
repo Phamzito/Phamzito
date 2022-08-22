@@ -4,34 +4,28 @@ Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`
 
 ---
 
-## 📊 Estadisticas de Github (expande para ver)
-
-<details>
-<summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
-<br/>
-<!--Stats-->
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Phamzito&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Phamzito&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=sapphiredev/framework;dirigeants/core" />
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-  <summary><b>🔥Estadísticas de Racha</b></summary>
-  <br/>
-  <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=phamzito&theme=dark&hide_border=true&locale=es" alt="phamzito" /></p>
+<details> 
+  <summary>💻 Estadísticas de Github</summary>
+  <div>
+    <h2 align="center">Estadísticas</h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/Phamzito/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&username=phamzito" alt="Phamzito" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=es&hide_border=true&username=phamzito" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phamzito&theme=blue-green&hide_border=true&locale=es" />
+          </a>
+       </p>
+     <br>
+  </div>    
 </details>
 
 <div align="center">
-   
-   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Phamzito.Phamzito)
-   
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=phamzito.phamzito&left_color=darkslategray&right_color=darkcyan&left_text=VISITAS"  />
 </div>
 
 <!--Links-->
@@ -40,4 +34,3 @@ Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`
 [`python`]: https://www.python.org/
 [`c#`]: https://visualstudio.microsoft.com/
 [`c++`]: https://visualstudio.microsoft.com/
-[`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
