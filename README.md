@@ -7,7 +7,7 @@ Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`
 <details> 
   <summary>💻 Estadísticas de Github</summary>
   <div>
-    <h2 align="center">Estadis</h2>
+    <h2 align="center">Estadísticas</h2>
       <br/>
         <p align="center">
           <a href="https://github.com/Phamzito/">
