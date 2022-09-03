@@ -17,7 +17,7 @@ Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`
         <p align="center">
           <a href="https://github.com/Phamzito/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=es&hide_border=true&username=phamzito" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phamzito&theme=blue-green&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phamzito&locale=es&theme=blue-green&hide_border=true" />
           </a>
        </p>
      <br>
