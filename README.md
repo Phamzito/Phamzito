@@ -1,38 +1,16 @@
-## Hola 👋
-
-Mi nombre es **David Gustavo**, los lenguajes que e aprendido actualmente son [`Typescript`] (y Javascript), [`Python`], [`C#`] y [`C++`]
-
----
-
-<details> 
-  <summary>💻 Estadísticas de Github</summary>
-  <div>
-    <h2 align="center">Estadísticas</h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/Phamzito/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&username=phamzito" alt="Phamzito" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Phamzito/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=es&hide_border=true&username=phamzito" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phamzito&locale=es&theme=blue-green&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0" src="https://grs.quantumly.dev/api/?username=Phamzito&show_icons=true&title_color=ff6961&text_color=ffffff&bg_color=00000000&hide_border=true&icon_color=77dd77&hide_title=true&count_private=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=Phamzito&layout=compact&show_icons=true&title_color=ff6961&text_color=ffffff&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=pham-project/tobias;sapphiredev/framework;dirigeants/core"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phamzito.phamzito&left_color=darkslategray&right_color=darkcyan&left_text=VISITAS"  />
 </div>
 
-<!--Links-->
-
-[`typescript`]: https://www.typescriptlang.org/
-[`python`]: https://www.python.org/
-[`c#`]: https://visualstudio.microsoft.com/
-[`c++`]: https://visualstudio.microsoft.com/
-[`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
